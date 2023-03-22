@@ -1,0 +1,23 @@
+# dependencias 
+/node_modules 
+/.pnp 
+.pnp.js 
+
+# testing
+/coverage
+
+# production
+/build 
+
+# misc 
+.DS_Store 
+.vscode 
+.env 
+.env.local 
+.env.development.local 
+.env.test.local 
+.env.production.local
+
+npm -debug.log* 
+hilo-debug.log* 
+hilo-error.log*
