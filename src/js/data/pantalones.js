@@ -1,0 +1,122 @@
+export const pantalonesData = [
+    {
+        marca: "Essentials",
+        sexo: "Unisex",
+        modelo: "5 Pocket Jean Denim",
+        tipo: "Urbano",
+        talle: "s-xl",
+        precio: 210,
+        stock: true,
+        url: "C:\Users\12\OneDrive\Escritorio\Desarrollo web\pantalones\Fear-of-God-Essentials-5-Pocket-Jean-Denim-433x433.jpg",
+    },
+
+    {
+        marca: "Jordan",
+        sexo: "Unisex",
+        modelo: "CLOT Nrg Black-White-Red",
+        tipo: "Urbano",
+        talle: "s-l",
+        precio: 110,
+        stock: true,
+        url: "C:\Users\12\OneDrive\Escritorio\Desarrollo web\pantalones\Jordan-x-CLOT-NRG-Track-Pants-Black-White-Red-433x433.jpg",
+    },
+
+    {
+        marca: "Nike",
+        sexo: "Unisex",
+        modelo: "Swoosh Jogging Pants-Black",
+        tipo: "Urbano",
+        talle: "m-xl",
+        precio: 100,
+        stock: true,
+        url: "C:\Users\12\OneDrive\Escritorio\Desarrollo web\pantalones\Nike-Big-Swoosh-Jogging-Pants-Black-433x433.jpg",
+    },
+
+    {
+        marca: "Nike",
+        sexo: "Unisex",
+        modelo: "Curt Heritage Suit Black",
+        tipo: "Urbano",
+        talle: "s-l",
+        precio: 120,
+        stock: true,
+        url: "C:\Users\12\OneDrive\Escritorio\Desarrollo web\pantalones\Nike-Court-Heritage-Suit-Men_s-Pants-Sports-Tennis-Badminton-Black-433x433.jpg",
+    },
+
+    {
+        marca: "Nike",
+        sexo: "Mujer",
+        modelo: "Popper Icon Glam-Clash Blue",
+        tipo: "Urbano",
+        talle: "xs-l",
+        precio: 120,
+        stock: true,
+        url: "C:\Users\12\OneDrive\Escritorio\Desarrollo web\pantalones\Nike-NSW-W-Popper-Icon-Glam-Clash-Pants-Blue-433x433.jpg",
+    },
+
+    {
+        marca: "Nike",
+        sexo: "Unisex",
+        modelo: "PSG Dri-Fit ",
+        tipo: "Deportivo",
+        talle: "s-xl",
+        precio: 125,
+        stock: true,
+        url: "C:\Users\12\OneDrive\Escritorio\Desarrollo web\pantalones\Nike-PSG-Dri-Fit-Squad-Strike-Football-Pants-433x433.jpg",
+    },
+
+    {
+        marca: "Nike",
+        sexo: "Mujer",
+        modelo: "SB Parra Pants Multicolor",
+        tipo: "Urbano",
+        talle: "xs-l",
+        precio: 100,
+        stock: true,
+        url: "C:\Users\12\OneDrive\Escritorio\Desarrollo web\pantalones\Nike-SB-x-Parra-Pants-Multicolor-433x433.jpg",
+    },
+
+    {
+        marca: "Nike",
+        sexo: "Unisex",
+        modelo: "Sportswear Green Joggers",
+        tipo: "Urbano",
+        talle: "s-xl",
+        precio: 110,
+        stock: true,
+        url: "C:\Users\12\OneDrive\Escritorio\Desarrollo web\pantalones\Nike-Sportswear-Green-Sherpa-Fleece-Nylon-Joggers-433x433.jpg",
+    },
+
+    {
+        marca: "Nike",
+        sexo: "Unisex",
+        modelo: "Acronym Knit Pants Black",
+        tipo: "Urbano",
+        talle: "s-xl",
+        precio: 125,
+        stock: true,
+        url: "C:\Users\12\OneDrive\Escritorio\Desarrollo web\pantalones\Nike-x-Acronym-Knit-Pants-Black-433x433.jpg",
+    },
+
+    {
+        marca: "Nike",
+        sexo: "Mujer",
+        modelo: "Billie Eilish Pants Mushroom",
+        tipo: "Urbano",
+        talle: "xs-l",
+        precio: 130,
+        stock: true,
+        url: "C:\Users\12\OneDrive\Escritorio\Desarrollo web\pantalones\Nike-x-Billie-Eilish-Fleece-Pants-Mushroom-433x433.jpg",
+    },
+
+    {
+        marca: "Palm Angeles",
+        sexo: "Mujer",
+        modelo: "Curved Logo Lila-White",
+        tipo: "Urbano",
+        talle: "xs-l",
+        precio: 120,
+        stock: false,
+        url: "C:\Users\12\OneDrive\Escritorio\Desarrollo web\pantalones\Palm-Angels-Curved-Logo-Sweatpants-Lilac-White-433x433.jpg",
+    },
+]
